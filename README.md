@@ -1,8 +1,8 @@
 #### - 👋 Eu sou : @IsaoWS1
-- 👀 Instagram : @iiahiru_sa
-- 🌱 Gosto : Flores, 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🥈 Instagram : @iiahiru_sa
+- 🎐 Gosto : Flores, desenhar, lda/dr, e algo a mais...
+- 🪐 Desejo vencer na vida.
+
 
 <!---
 IsaoWS1/IsaoWS1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
